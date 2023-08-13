@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Tai</h1>
 <h3 align="center">I'm a cyber security student at HUFLIT</h3>
 
-- 🔭 I’m currently working on **NFG-Project**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Network Programming,Network Operating System,...**
 
