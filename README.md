@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently playing **HTB**
 
 - 💬 Ask me about **Don't ask me**
 
