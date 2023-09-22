@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Network Programming,Network Operating System,...**
+- 🌱 I’m currently learning **Nothing**
 
 - 💬 Ask me about **Don't ask me**
 
