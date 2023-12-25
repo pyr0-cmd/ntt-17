@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Don't ask me**
 
-- 📫 How to reach me **nguyentrongtai1001@gmail.com**
+- 📫 How to reach me **tainguyen7643@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
