@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Tai</h1>
 <h3 align="center">I'm a cyber security student at HUFLIT</h3>
 
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently playing **HTB**
-
-- 💬 Ask me about **Don't ask me**
-
 - 📫 How to reach me **tainguyen7643@proton.me**
 
 <h3 align="left">Connect with me:</h3>
