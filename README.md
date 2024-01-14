@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Tai</h1>
 <h3 align="center">I'm a Cyber Security student at HUFLIT</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tainguyen7643@proton.me</h3>
 <p align="left">
 </p>
 
